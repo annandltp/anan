@@ -454,7 +454,7 @@ pre {
 }
 
 #preloader.light {
-  background: #e0e5ec;
+  background: #151515;
 }
 
 .goo-outer {
@@ -1768,7 +1768,7 @@ body.dark .blog-page-section .blog-single {
   -webkit-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
- }
+}
 
 #return-to-top i {
   color: #fff;
